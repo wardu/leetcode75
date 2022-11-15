@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-75",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-1480-sum-of-array.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
