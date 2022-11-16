@@ -1,4 +1,4 @@
-const runningSum = require("./runningSum-1480");
+const runningSum = require("./runningSum-1480.js");
 
 test("Gives the running sum of an array", () => {
   expect(runningSum([1, 2, 3, 4])).toEqual([1, 3, 6, 10]);

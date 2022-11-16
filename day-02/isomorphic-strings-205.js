@@ -35,4 +35,6 @@ const isIsomorphic = (s, t) => {
   return true;
 };
 
+isIsomorphic("egg", "add");
+
 module.exports = isIsomorphic;
